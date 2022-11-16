@@ -2270,3 +2270,11 @@ p.form-message.error {
 }
 
 /*# sourceMappingURL=style.css.map */
+
+/*#respossivo*/
+@media(max-widht: 425px){
+  #single-product-items col-md 5{
+    width: 50px;
+    margin-bottom: 30px;
+  }
+}
