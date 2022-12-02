@@ -596,7 +596,7 @@ p {
 
 .single-slider .slider-product-content {
   max-width: 670px;
-  margin-left: 125px;
+  margin-left: 500px;
 }
 
 @media only screen and (min-width: 992px) and (max-width: 1200px) {
